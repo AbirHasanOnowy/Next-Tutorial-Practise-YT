@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-ul {
-    display: flex;
-    justify-content: space-around;
-}
 
 .link {
     list-style: none;

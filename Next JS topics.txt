@@ -1,0 +1,108 @@
+
+✅ Module 1: Introduction & Basics
+1. Introduction to Next.js
+2. Creating Your First App: Hello World
+3. Understanding the Project Structure
+4. Essential Concepts Before We Start
+---
+✅ Module 2: Routing in Next.js
+1. Basics of Routing
+2. Nested Routes Explained
+3. Dynamic Routes and URL Parameters
+4. Building Nested Dynamic Routes
+5. Catch-all Segments for Flexible Routing
+6. Creating a Custom Not Found Page
+7. Organizing with File Colocation
+8. Securing with Private Folders
+9. Structuring with Route Groups
+---
+✅ Module 3: Layouts and Navigation
+1. Creating Layouts in Next.js
+2. Working with Nested Layouts
+3. Managing Multiple Root Layouts
+4. Enhancing SEO with Routing Metadata
+5. Setting Page Titles with Metadata
+6. Navigating with the Link Component
+7. Highlighting Active Links in Navigation
+8. Using `params` and `searchParams`
+9. Navigating Programmatically
+---
+✅ Module 4: Advanced Routing Features
+1. Templates for Dynamic Pages
+2. Building a Loading UI
+3. Handling Errors in Pages
+4. Recovering from Errors
+5. Handling Errors in Nested Routes
+6. Managing Errors in Layouts
+7. Setting Up Global Error Handling
+8. Parallel Routes Explained
+9. Handling Unmatched Routes
+10. Building Conditional Routes
+11. Intercepting Routes in Next.js
+12. Using Parallel Intercepting Routes
+---
+✅ Module 5: API Routes (Route Handlers)
+1. Introduction to Route Handlers
+2. Handling GET Requests
+3. Handling POST Requests
+4. Building Dynamic Route Handlers
+5. Handling PATCH Requests
+6. Handling DELETE Requests
+7. Accessing URL Query Parameters
+8. Working with Headers in Route Handlers
+9. Managing Cookies in Route Handlers
+10. Performing Redirects in Route Handlers
+11. Caching Strategies in Route Handlers
+---
+✅ Module 6: Middleware and Rendering Concepts
+1. Understanding Middleware in Next.js
+2. Different Types of Rendering
+3. Client-side Rendering (CSR)
+4. Server-side Rendering (SSR)
+5. Using Suspense in SSR
+6. React Server Components Overview
+7. Understanding Server and Client Components
+8. Rendering Lifecycle in React Server Components
+9. Static Rendering in Depth
+10. Dynamic Rendering Explained
+11. Using `generateStaticParams`
+12. Managing `dynamicParams`
+13. Streaming Data in Next.js
+14. Composition Patterns: Server and Client Components
+15. Writing Server-only Code
+16. Installing Third-Party Packages
+17. Setting Up Context Providers
+18. Managing Client-only Code
+19. Best Practices for Client Component Placement
+20. Interleaving Server and Client Components
+---
+✅ Module 7: Data Fetching in Next.js
+1. Fetching Data in Client Components
+2. Fetching Data with Server Components
+3. Handling Loading and Error States
+4. Sequential Data Fetching
+5. Parallel Data Fetching
+6. Fetching From a Database
+---
+✅ Module 8: Mutations and Server Actions
+1. Introduction to Data Mutations
+2. Handling Forms with Server Actions
+3. Using the `useFormStatus` Hook
+4. Managing State with `useActionState` Hook
+5. Separating Server Actions for Better Organization
+6. Comparing `useFormStatus` vs `useActionState`
+7. Implementing Update Server Actions
+8. Implementing Delete Server Actions
+9. Optimistic Updates with `useOptimistic` Hook
+10. Building a Reusable Form Component
+---
+✅ Module 9: Authentication in Next.js
+1. Setting Up Authentication with Clerk
+2. Handling Sign In and Sign Out
+3. Creating Profile Settings Pages
+4. Conditional UI Rendering Based on User Status
+5. Protecting Routes with Middleware
+6. Reading Session and User Data
+7. Role Based Access Control (RBAC)
+8. Customizing Clerk Components for Branding
+---
